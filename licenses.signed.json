@@ -1,7 +1,7 @@
 {
   "data": {
     "version": 1,
-    "issued_at": "2026-05-19T12:52:01+00:00",
+    "issued_at": "2026-05-19T12:52:27+00:00",
     "product": "MGB-BOT-V4",
     "licenses": [
       {
@@ -16,5 +16,5 @@
       }
     ]
   },
-  "signature": "abd2c46e4fd3246e095f1f75b6de6c9a910b7e4200452a9a2207f80bd6888db27a253636fa055e1b120a6bac14e026f1a3b5e3e09316dde7ba6ad92d82ad8906"
+  "signature": "2cd5321c87758860b945722499d787d8138ff56a92fa6d808af811d5f9a90bf27e404d14630be429c3873e892aa0a5a7929bcd0beb6753719ed664ecb882d50e"
 }
