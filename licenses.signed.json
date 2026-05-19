@@ -1,9 +1,20 @@
 {
   "data": {
     "version": 1,
-    "issued_at": "2026-05-19T11:20:39+00:00",
+    "issued_at": "2026-05-19T12:40:42+00:00",
     "product": "MGB-BOT-V4",
-    "licenses": []
+    "licenses": [
+      {
+        "key": "MGB-A4BA-6054-F7A2-68CD",
+        "owner": "anhvu",
+        "note": "",
+        "product": "MGB-BOT-V4",
+        "hwid": "d9f63e1c14dbd10d9d02c0bb475d4b78e45126514cf3ffdf16e4cb8b504e7fff",
+        "expires_at": "2026-06-18T12:39:03+00:00",
+        "status": "active",
+        "created_at": "2026-05-19T12:39:03+00:00"
+      }
+    ]
   },
-  "signature": "376e4114b2524060bb81b0aa90691c7856ec7295ab6b162ce4d44bac2e1c5e970f5c16c9620343f81eece2421284ab12921c84d4bc384743e58bd68d0505100a"
+  "signature": "7b973e59cfd8792759e0a657d77470249a9fc87e152c7600d399ebe21cd39962f0bfefa4cb289d0bfe4fb43148c48daac9fd813cf17ec06dc0b5c0e67926cb01"
 }
